@@ -1,0 +1,16 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+.ParteDeCima{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  height: 50px;
+  align-items: baseline;
+  color: hsl(0, 0%, 41%);
+} 
+.img{
+  height: 28px;
+  position: absolute;
+  top: 10px;
+} 

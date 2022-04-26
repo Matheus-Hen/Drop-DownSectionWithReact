@@ -1,0 +1,34 @@
+.LoginRegister{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    width: 600px;
+}
+.AreaLogin{
+    width: 200px;
+    text-align:right;
+}
+.Login{
+    width: 150px;
+    display: flex;
+    justify-content:flex-end;
+}
+.AreaRegister{
+    width: 200px;
+}
+.Register {
+    border: 3px solid hsl(0, 0%, 41%);
+    color: hsl(0, 0%, 41%);
+    border-radius: 10px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    cursor: pointer;
+}
+
+.Register:hover {
+    border: 3px solid black;
+    color: black;
+    cursor: pointer;
+}
